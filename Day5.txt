@@ -3,3 +3,5 @@ Hello All!
 2nd
 
 This is from user 2
+
+This is for user2 feature2

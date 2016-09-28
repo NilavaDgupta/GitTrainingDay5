@@ -9,3 +9,5 @@ This is for user2 feature2
 user 2 master
 
 user1 rebase
+
+user1 merge2

@@ -1,3 +1,5 @@
 user2
 
 git merge for feature4
+
+next

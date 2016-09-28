@@ -5,3 +5,5 @@ Hello All!
 This is from user 2
 
 This is for user2 feature2
+
+user 2 master

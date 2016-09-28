@@ -3,5 +3,9 @@ user2
 git merge for feature4
 
 next
-
+t
+t
 for rebase
+t
+feature2rebase
+t
